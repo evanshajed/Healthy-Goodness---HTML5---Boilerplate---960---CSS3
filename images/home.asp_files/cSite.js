@@ -1,0 +1,23 @@
+
+var idsb = '528'; var idsf = '2'; var idsa = '2257'; var idss = '82'; 
+var imageOut = new makeImageArray(30); var imageOver = new makeImageArray(30); 
+var highlightTNc = 'f77529'; 
+var catHighlight = 0; 
+var faqHighlight = 0; 
+var sideNavHighlight = ''; 
+var topNavHighlight = ''; 
+var ksearch1 = 'You must enter a value to search for';
+var ksearch2 = 'You must enter valid keywords to search for (not just small words such as \'and\', \'or\', \'the\' etc)';
+var theThumbAction = '';
+var pagePrmpt = '';
+var cartPrmpt = '';
+var lastHighlight = -1;
+var sNavStartCH = '';
+var sNavEndCH = '';
+var bPointGif = '';
+var altNav = 'false';
+var qDSAa = '&dsb=2257'; var qDSAp = '&dsb=82'; var qDSAf = '&dsf=2';
+var qCrFalse = '';
+var sNavAATitle = '';
+var imgBPointSrc = '../../images/Body/bullet_point_sub_nav.gif';
+var imgBPointOpt = '';

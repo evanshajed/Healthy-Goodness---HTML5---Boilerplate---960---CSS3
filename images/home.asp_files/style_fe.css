@@ -1,0 +1,96 @@
+
+
+.feSubHeading
+{
+	color: #ff9900;
+	font-family : Century Gothic, Verdana, Arial;
+	font-size : 9pt;
+	font-weight : BOLD;
+}
+
+.feHeading
+{
+	color: #ff9900;
+	font-family : Century Gothic, Verdana, Arial;
+	font-size : 13pt;
+	font-weight : BOLD;
+}
+
+.feDefault
+{
+	color: #555555;
+	font-family : Century Gothic, Verdana, Arial;
+	font-size : 9pt;
+	font-weight : NORMAL;
+}
+
+.feSmall
+{
+	color: #555555;
+	font-family : Century Gothic, Verdana, Arial;
+	font-size : 7.5pt;
+	font-weight : NORMAL;
+}
+
+.ahDefault
+{
+	color: #555555;
+	font-family : Century Gothic, Verdana, Arial;
+	font-size : 7.5pt;
+	font-weight : NORMAL;
+}
+
+span.small, div.small, td.small { font-size:7.5pt; }
+
+span.padtop2, div.padtop2, td.padtop2 { padding-top: 2px; }
+
+td.artBtnTop { padding-bottom:5px; }
+td.artBtnBottom { padding-top:5px; }
+td.artBtnSep, table.artBtnSep { padding-right:23px; }
+
+.ahImage { border: 1px solid #232061; }
+
+.pollBackground { background-color: #232061; }
+
+
+	div.indexU1 { margin-left:0px; }
+	div.indexL1 { }
+	div.indexU2 { margin-left:25px; }
+	div.indexL2 { }
+	div.indexU3 { margin-left:25px; }
+	div.indexL3 { }
+	
+
+.feSearch
+{
+	
+		color: #555555;
+	
+		font-size : 9pt;
+	
+		font-weight : NORMAL;
+	
+		font-family : Century Gothic, Verdana, Arial;
+	
+	padding-top: 2px;
+	vertical-align: middle;  
+	margin-top: 12px;
+}
+
+.feSearchBottom
+{
+	
+		color: #555555;
+	
+		font-size : 9pt;
+	
+		font-weight : NORMAL;
+	
+		font-family : Century Gothic, Verdana, Arial;
+	
+	padding-top: 2px;
+	
+	margin-top: 12px;
+}
+
+div.agCaption, img.agThumb { cursor:pointer; }

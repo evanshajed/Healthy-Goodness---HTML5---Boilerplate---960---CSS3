@@ -1,0 +1,78 @@
+/*fixed*/
+div.siteFixedGlobal
+{
+	width: 100%;
+	height: auto;
+	background-color: #FFFFFF;
+	background-image: url(../../images/Body/fw_bg_body.jpg);
+	background-attachment : scroll;
+	background-repeat : no-repeat;
+	background-position : top;
+}
+div.siteFixed
+{
+}
+span.topNavLogoRight, div.topNavLogoRight
+{
+	right: 0px;
+}
+
+/*top*/
+div.siteTopnav
+{
+	position: relative;
+	overflow: hidden;
+	width: 933px;
+	height: 152px;
+	background-color: #ffffff;
+	background-image: url(../../html/images/trans.gif);
+}
+
+/*body*/
+body
+{
+	margin-left: 0px; margin-right: 0px; margin-top: 0px; margin-bottom: 0px;
+	overflow: auto;
+	background-color: #FFFFFF;
+}
+div.siteBodyMain
+{
+	overflow: hidden;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width:933px;
+	height:auto;
+	background-color: #ffffff;
+	background-image: url(../../images/Body/bg_body.gif);
+	background-repeat:repeat-y;
+}
+td.siteBodyContent
+{
+	overflow: hidden;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+td.siteBodyContentHome
+{
+	overflow: hidden;
+	padding-top: 10px;
+	padding-left: 30px;
+}
+td.siteBodyContentWN
+{
+	padding-top: 10px;
+}
+td.navBodyMain
+{
+}
+
+/*bottom*/
+div.siteBottomMain
+{
+	overflow: hidden;
+	position: relative;
+	width: 933px;
+	height: 59px;
+}
