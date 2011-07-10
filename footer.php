@@ -17,23 +17,30 @@
 					<div class="grid_7 push_1">
 						<nav id="footer-nav">
 							<ul>
-							<li><a class="active"href="#">Home</a></li>
-							<li><a href="#">Our Story</a></li>
-							<li><a href="#">Why</a></li>
-							<li><a href="#">Video</a></li>
-							<li><a href="#">Contact</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="story.php">Our Story</a></li>
+							<li><a href="whyhealthygoodness.php">Why</a></li>
+							<li><a href="video.php">Video</a></li>
+							<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
 					<div class="grid_4 push_4">
 					<a rel="me" href="http://twitter.com/michaelrzeller" title="Healthy Goodness Twitter profile"><img src="images/twitter.png" alt="Twitter Healthy Goodness"/></a>
-						<a  href="goodness_trfold5.pdf" title="PDF file download"><img src="images/pdf.png" alt="PDF file download"/></a>
+						<a  href="goodness_trifold5.pdf" title="PDF file download"><img src="images/pdf.png" alt="PDF file download"/></a>
 						<a rel="me" href="http://facebook.com/nashvillemikez" title="Facebook Profle"><img src="images/facebook.png" alt="PDF file download"/></a>
 
 					</div>
 				
 				</div>
-				<div class="clear"></div>		
+				<div class="clear"></div>
+				<div class="grid_6 smedevelopers">Designed and Developed by <a href="http://smedevelopers.com" title="Creative web development solution">SME Developers</a></div>	
+				<div class="grid_6 push_8">
+				<a href="http://www.w3.org/html/logo/">
+<img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-performance-semantics.png" width="150" height="40" alt="HTML5 Powered with CSS3 / Styling, Performance &amp; Integration, and Semantics" title="HTML5 Powered with CSS3 / Styling, Performance &amp; Integration, and Semantics">
+</a>
+				</div>	
+				<div class="clear"></div>
 			</div>
 		</footer>
 	</div>

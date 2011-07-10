@@ -1,10 +1,10 @@
-Author: Evan Shajed
-Email: evanshajed@smedevelopers.com
-Twitter: evan2all
+<b>Author: Evan Shajed<b><br/>
+Email: evanshajed@smedevelopers.com<br/>
+Twitter: evan2all<br/>
 Facebook: http://facebook.com/szevan
-------------------------------------------------------
-Project Details:
 
+Project Details:
+------------------------------------------------------
 This project is a website developing prototype for Healthy Goodness vending Machine Supplier company. Project is designed and developed by Evan Shajed.
 
 Resources:

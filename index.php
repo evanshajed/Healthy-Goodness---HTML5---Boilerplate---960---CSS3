@@ -8,8 +8,8 @@
 				 By choosing Healthy Goodness&trade; Vending, you are making a positive impact on your guest's health.
 </p>
 				
-				<h1 class="big-title">Better Health, Better Taste<br/><span>Simple Goodness.</span></h1>
-			<p class="text-center">	<a class="action" href="#">why healthy Goodness?</a></p>
+				<h1 class="big-title">Better Health, Better Taste<br/><span>Healthy Goodness.</span></h1>
+			<p class="text-center">	<a class="action" href="story.php">why healthy Goodness?</a></p>
 			</div>
 			<div id="logo_png" class="grid_5 sprites margin-top-20"></div>
 			<div class="clear"></div>

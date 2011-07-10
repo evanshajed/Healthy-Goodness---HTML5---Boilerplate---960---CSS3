@@ -8,7 +8,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>Mike Website</title>
+	<title>Healthy Goodness</title>
 	<meta name="description" content="This is the description section for Mike">
 	<meta name="author" content="Shajed Evan, SME Developers">
 	
@@ -34,11 +34,11 @@
 				<div class="container_16">
 					<div id="nav" class="grid_16">
 						<ul>
-							<li><a class="active"href="#">Home</a></li>
-							<li><a href="#">Our Story</a></li>
-							<li><a href="#">Why Healthy Goodness?</a></li>
-							<li><a href="#">Video</a></li>
-							<li><a href="#">Contact Info</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="story.php">Our Story</a></li>
+							<li><a href="whyhealthygoodness.php">Why Healthy Goodness?</a></li>
+							<li><a href="video.php">Video</a></li>
+							<li><a href="contact.php">Contact Info</a></li>
 						</ul>
 					</div>
 					<div class="clear"></div>
