@@ -21,13 +21,13 @@ Resources:
 - CSS3
 
 
-Example Live website: http://examples.smedevelopers.com/mike/
+Example Live website: http://healthygoodnessvending.com/
 
 ------------------------------------------------------------
 
 How you can work on this project?
--------------------------------
-Feel free to make any changes you would like to but will really appreciate if you don't copy the website as it is right now. Will also appreciate if you can share your developed prototype with others.
+-----------------------------------
+Feel free to make any changes you would like to but will really appreciate if you don't copy the website as it is right now, This website was designed for the client but as it holds the contents, pictures and styling wrights, you cant copy all of them. You can make changes without nay problem as long as there isn't any copy of the style and contents or objects used from the original text's. Will also appreciate if you can share your developed prototype with others.
 
 Thanks<br/>
 Evan Shajed
