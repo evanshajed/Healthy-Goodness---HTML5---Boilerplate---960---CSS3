@@ -7,10 +7,10 @@ Project Details:
 ------------------------------------------------------
 This project is a website developing prototype for Healthy Goodness vending Machine Supplier company. Project is designed and developed by Evan Shajed from <a href="http://smedevelopers.com">SME Developers</a>
 
-<b>How it is working?</b>
-- HTML5 Boilerplate Framework has been used for optimal CSS and JavaScipt calls.
-- HTML5 structure integrated with 960 grid CSS based grid system
-- Design is CSS3; so please use non IE based web browsers. Yes I don't bother about IE and in many cases not even my Client. But still HTML5 is rendering well on IE8 without the CSS3 styles.
+<b>How it is working?</b><br/>
+- HTML5 Boilerplate Framework has been used for optimal CSS and JavaScipt calls.<br/>
+- HTML5 structure integrated with 960 grid CSS based grid system.<br/>
+- Design is CSS3; so please use non IE based web browsers. Yes I don't bother about IE and in many cases not even my Client. But still HTML5 is rendering well on IE8 without the CSS3 styles.<br/>
 - You have to build and run the boilerplate optimisation script to make the tags even more optimized. check out the documentation for <a href="https://github.com/paulirish/html5-boilerplate/wiki">HTML5 Boilerplate</a>
 
 
